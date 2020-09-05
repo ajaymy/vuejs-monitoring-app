@@ -13,7 +13,7 @@
     "chartist-plugin-legend": "^0.6.2",
     "date-fns": "^2.9.0",
     "dotenv": "^8.2.0",
-    "node-sass": "4.9.3",
+    "node-sass": "4.14.1",
     "python-shell": "^1.0.8",
     "sass-loader": "7.1.0",
     "vue": "2.5.22",
